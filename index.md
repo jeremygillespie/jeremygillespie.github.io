@@ -3,6 +3,6 @@ title: Gillespie Games
 layout: default
 ---
 
-# Jeremy Gillespie
-
 You can email me at Jeremy @ this domain!
+
+[Github](https://github.com/jeremygillespie)
